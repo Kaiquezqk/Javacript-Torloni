@@ -20,3 +20,4 @@ if (soma >= 7.0) {
 } else {
     console.log("REPROVADO");
 }
+ 
