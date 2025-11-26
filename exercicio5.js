@@ -7,3 +7,4 @@ if (n1 < n2 && n2 < n3) {
 } else {
     alert("Os números NÃO estão em ordem crescente.");
 }
+
